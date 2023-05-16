@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Метасловарь "Грамоты"</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Цифровой машиночитаемый словарь, объединяющий информацию из разных словарей</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Gramota database http://slovari21.new.gramota.ru/</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <entry xml:id="w1"> <!--поскольку xml:id должен быть числовым, то ставим, если это id слова w,  если это id словосочетания ph, если имени собственного, то pr-->
+           <form type="lemma>
+              <orth>тоннель</orth>
+              <pron ref="audio1"/> <!--тут ссылка на название аудиофайла с записью-->
+              <stress>тонн$ель</stress> <!--ставим доллар перед ударением-->
+              <orth type="variant">туннель</orth> <!-- пока думаю будем делать для варианта отдельный энтри, но связывать через вариант, это еще нужно додумать, как вкладывать -->
+           </form>
+           <gramGrp>
+              <gram type="pos">noun</gram>
+              <gram type="gender">m</gram>
+              <gram type="decl">2</gram>
+              <gram type="declZ">2a</gram>
+              <form type="paradigm" subtype="sg">
+                 <form type="inflected">
+                 <orth>тоннель</orth>
+                 <stress>тонн$ель</stress>
+                 <gramGr>
+                    <gram type="case">nom</gram>
+                 </gramGr>
+                 </form>
+                 <form type="inflected">
+                    <orth>тоннеля</orth>
+                    <stress>тонн$еля</stress>
+                    <gramGr>
+                       <gram type="case">gen</gram>
+                    </gramGr>
+                 </form>
+                 <!-- и так далее перечисляем сначала все формы единственного числа, потом множественного -->
+              </form>
+           </gramGrp>
+           <sense>
+              <def></def><!-- сюда будет вставляться толкование -->
+           </sense>
+           <etym></etym>
+        </entry>
+      </body>
+  </text>
+</TEI>
+
