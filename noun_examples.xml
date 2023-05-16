@@ -1,0 +1,469 @@
+<text>
+  <body>
+    <entry xml:id="w0">
+      <form type="lemma">
+        <orth>дом</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Существительное</gram>
+        <gram type="gender"> мужской род</gram>
+        <gram type="decl">2-е склонение</gram>
+        <gram type="declZ">тип склонения 1c①  по классификации А. А. Зализняка</gram>
+        <form_sg type="paradigm" subtype="sg">
+          <form type="inflected"/>
+          <orth>дом</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>до́ма</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>до́му</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>дом</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>до́мом</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>до́ме</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_sg>
+        <form_pl type="paradigm" subtype="pl">
+          <form type="inflected"/>
+          <orth>дома́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>домо́в</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>дома́м</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>дома́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>дома́ми</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>дома́х</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_pl>
+      </gramGrp>
+      <sense>
+        <definition/>
+      </sense>
+      <etym/>
+    </entry>
+    <entry xml:id="w1">
+      <form type="lemma">
+        <orth>собака</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Существительное</gram>
+        <gram type="gender"> женский род</gram>
+        <gram type="decl">1-е склонение</gram>
+        <gram type="declZ">тип склонения 3a  по классификации А. А. Зализняка</gram>
+        <form_sg type="paradigm" subtype="sg">
+          <form type="inflected"/>
+          <orth>соба́ка</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́ки</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́ке</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́ку</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́кой соба́кою</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́ке</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_sg>
+        <form_pl type="paradigm" subtype="pl">
+          <form type="inflected"/>
+          <orth>соба́ки</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́к</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́кам</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́к // соба́ки</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́ками</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>соба́ках</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_pl>
+      </gramGrp>
+      <sense>
+        <definition/>
+      </sense>
+      <etym/>
+    </entry>
+    <entry xml:id="w2">
+      <form type="lemma">
+        <orth>кот</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Существительное</gram>
+        <gram type="gender"> мужской род</gram>
+        <gram type="decl">2-е склонение</gram>
+        <gram type="declZ">тип склонения 1b  по классификации А. А. Зализняка</gram>
+        <form_sg type="paradigm" subtype="sg">
+          <form type="inflected"/>
+          <orth>кот</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кота́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>коту́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кота́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кото́м</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>коте́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_sg>
+        <form_pl type="paradigm" subtype="pl">
+          <form type="inflected"/>
+          <orth>коты́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кото́в</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кота́м</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кото́в</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кота́ми</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>кота́х</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_pl>
+      </gramGrp>
+      <sense>
+        <definition/>
+      </sense>
+      <etym/>
+    </entry>
+    <entry xml:id="w3">
+      <form type="lemma">
+        <orth>егоза</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Существительное</gram>
+        <gram type="gender"> общий род</gram>
+        <gram type="decl">1-е склонение</gram>
+        <gram type="declZ">тип склонения 1b÷  по классификации А. А. Зализняка</gram>
+        <form_sg type="paradigm" subtype="sg">
+          <form type="inflected"/>
+          <orth>егоза́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егозы́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егозе́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егозу́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егозо́й егозо́ю</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егозе́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_sg>
+        <form_pl type="paradigm" subtype="pl">
+          <form type="inflected"/>
+          <orth>егозы́</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>его́з</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егоза́м</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>его́з</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егоза́ми</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>егоза́х</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_pl>
+      </gramGrp>
+      <sense>
+        <definition/>
+      </sense>
+      <etym/>
+    </entry>
+    <entry xml:id="w4">
+      <form type="lemma">
+        <orth>жмых</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Существительное</gram>
+        <gram type="gender"> мужской род</gram>
+        <gram type="decl">2-е склонение</gram>
+        <gram type="declZ">тип склонения 3b // 3a  по классификации А. А. Зализняка</gram>
+        <form_sg type="paradigm" subtype="sg">
+          <form type="inflected"/>
+          <orth>жмых</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыха́ // жмы́ха</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыху́ // жмы́ху</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмых</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыхо́м // жмы́хом</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыхе́ // жмы́хе</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_sg>
+        <form_pl type="paradigm" subtype="pl">
+          <form type="inflected"/>
+          <orth>жмыхи́ // жмы́хи</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">именительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыхо́в // жмы́хов</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">родительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыха́м // жмы́хам</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">дательный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыхи́ // жмы́хи</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">винительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыха́ми // жмы́хами</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">творительный падеж</gram>
+          </gramGr>
+          <form type="inflected"/>
+          <orth>жмыха́х // жмы́хах</orth>
+          <stress/>
+          <gramGr>
+            <gram type="case">предложный падеж</gram>
+          </gramGr>
+        </form_pl>
+      </gramGrp>
+      <sense>
+        <definition/>
+      </sense>
+      <etym/>
+    </entry>
+  </body>
+</text>
