@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--ВЕРСИЯ 2 14_05 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Метасловарь "Грамоты"</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Цифровой машиночитаемый словарь, объединяющий информацию из разных словарей</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Gramota database http://slovari21.new.gramota.ru/</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <entry xml:id="w1"> <!--поскольку xml:id должен быть числовым, то ставим, если это id слова w,  если это id словосочетания ph, если имени собственного, то pr-->
+           <form type="lemma">
+              <orth>тоннель</orth>
+              <pron>
+                 <ref target="audio1"/> <!--тут ссылка на название аудиофайла с записью-->
+              </pron> 
+              <stress>тонн$ель</stress> <!--ставим доллар перед ударением-->
+              <orth type="variant">туннель</orth> <!-- пока думаю будем делать для варианта отдельный энтри, но связывать через вариант, это еще нужно додумать, как вкладывать -->
+           </form>
+           <gramGrp>
+              <gram type="pos">noun</gram>
+              <gram type="gender">m</gram>
+              <gram type="decl">2</gram>
+              <gram type="declZ">2a</gram>
+              <form type="paradigm">
+                 <form type="inflected"> <!-- ВОТ ТУТ ИЗМЕНИЛАСЬ ЛОГИКА РАЗМЕТКИ -->
+                 <orth>тоннель</orth>
+                 <stress>тонн$ель</stress>
+                 <gramGrp>
+                    <gram type="case">nom</gram>
+                    <gram type="number">sg</gram>
+                 </gramGrp>
+                 </form>
+                 <form type="inflected">
+                    <orth>тоннеля</orth>
+                    <stress>тонн$еля</stress>
+                    <gramGrp>
+                       <gram type="case">gen</gram>
+                       <gram type="number">sg</gram>
+                    </gramGrp>
+                 </form>
+                 <!-- и так далее перечисляем сначала все формы единственного числа, потом множественного -->
+              </form>
+           </gramGrp>
+           <sense>
+              <def></def><!-- сюда будет вставляться толкование -->
+           </sense>
+           <etym></etym>
+        </entry>
+         <entry xml:id="w2">
+            <form type="lemma">
+            <orth>дарить</orth>
+            <pron>
+               <ref target="audio2"/>
+            </pron>
+            <stress>дар$ить</stress>
+            </form>
+            <gramGrp>
+               <gram type="pos">verb</gram>
+               <gram type="conj">2</gram> <!--- этого нет в викшионари -->
+               <gram type="aspect">imperfect</gram>
+               <gram type="transitivity">transitive</gram>
+               <form type="paradigm">
+                  <form type="inflected">
+                  <orth>дарю</orth>
+                  <stress>дар$ю</stress>
+                   <gramGrp>
+                      <gram type="person">1</gram>
+                      <gram type="number">sg</gram> 
+                      <gram type="tense">present</gram>
+                   </gramGrp>  
+               </form>
+                  <!-- так дальше заполняем по всем лицам единственного и множественного числа -->
+                <form type="inflected">
+                   <orth>дарил</orth>
+                   <stress>дар$ил</stress>
+                   <gramGrp>
+                      <gram type="gender">m</gram>
+                      <gram type="number">sg</gram>
+                      <gram type="tense">past</gram>
+                   </gramGrp>
+                </form>
+                 <!-- так дальше заполняем женский род единственное число и множественное число -->
+               <form type="inflected">
+               <orth>даря</orth>
+               <stress>дар$я</stress>
+               <gramGrp>
+                  <gram type="infinite">converb</gram>
+                  <gram type="tense">present</gram>
+               </gramGrp>
+               </form> <!-- добавить деепричастие прошедшего времени -->
+               <form type="inflected">
+               <orth>дарящий</orth> <!-- эта парадигма в викшионари на дарящий -->
+               <stress>дар$яший</stress>  
+               <gramGrp>
+                  <gram type="infinite">причастие</gram>
+                  <gram type="gender">m</gram>
+                  <gram type="number">sg</gram>
+                  <gram type="case">nom</gram>
+                  <gram type="tense">present</gram>
+                  <gram type="voice">active</gram>
+               </gramGrp>  
+               </form> <!-- и так далее по всем падежам, числам, родам, временам и залогам -->
+               </form>
+            </gramGrp>
+         </entry>
+      </body>
+  </text>
+</TEI>
+
