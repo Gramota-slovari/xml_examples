@@ -1,0 +1,873 @@
+<text>
+  <body>
+    <entry xml:id="w0">
+      <form type="lemma">
+        <orth>прыгать</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Глагол</gram>
+        <gram type="conj">тип спряжения по классификации А. Зализняка — 1a.</gram>
+        <gram type="aspect">несовершенный вид</gram>
+        <gram type="transitivity">непереходный</gram>
+        <form type="paradigm">
+          <form type="inflected">
+            <orth>пры́гаю</orth>
+            <stress>пры́гаю</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гаешь</orth>
+            <stress>пры́гаешь</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гает</orth>
+            <stress>пры́гает</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гаем</orth>
+            <stress>пры́гаем</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гаете</orth>
+            <stress>пры́гаете</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гаете</orth>
+            <stress>пры́гаете</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гают</orth>
+            <stress>пры́гают</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гал</orth>
+            <stress>пры́гал</stress>
+            <gramGrp>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гала</orth>
+            <stress>пры́гала</stress>
+            <gramGrp>
+              <gram type="gender">женский род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гало</orth>
+            <stress>пры́гало</stress>
+            <gramGrp>
+              <gram type="gender">средний род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гали</orth>
+            <stress>пры́гали</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гай</orth>
+            <stress>пры́гай</stress>
+            <gramGrp>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гайте</orth>
+            <stress>пры́гайте</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гая</orth>
+            <stress>пры́гая</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гав, пры́гавши</orth>
+            <stress>пры́гав, пры́гавши</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гающий</orth>
+            <stress>пры́гающий</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">настоящее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>пры́гавший</orth>
+            <stress>пры́гавший</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">прошедшее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+        </form>
+      </gramGrp>
+    </entry>
+    <entry xml:id="w1">
+      <form type="lemma">
+        <orth>тонуть</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Глагол</gram>
+        <gram type="conj">тип спряжения по классификации А. Зализняка — 3c.</gram>
+        <gram type="aspect">несовершенный вид</gram>
+        <gram type="transitivity">непереходный</gram>
+        <form type="paradigm">
+          <form type="inflected">
+            <orth>тону́</orth>
+            <stress>тону́</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нешь</orth>
+            <stress>то́нешь</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нет</orth>
+            <stress>то́нет</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нем</orth>
+            <stress>то́нем</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нете</orth>
+            <stress>то́нете</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нете</orth>
+            <stress>то́нете</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нут</orth>
+            <stress>то́нут</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тону́л</orth>
+            <stress>тону́л</stress>
+            <gramGrp>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тону́ла</orth>
+            <stress>тону́ла</stress>
+            <gramGrp>
+              <gram type="gender">женский род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тону́ло</orth>
+            <stress>тону́ло</stress>
+            <gramGrp>
+              <gram type="gender">средний род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тону́ли</orth>
+            <stress>тону́ли</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тони́</orth>
+            <stress>тони́</stress>
+            <gramGrp>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тони́те</orth>
+            <stress>тони́те</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth> — </orth>
+            <stress> — </stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тону́в, тону́вши</orth>
+            <stress>тону́в, тону́вши</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>то́нущий</orth>
+            <stress>то́нущий</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">настоящее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>тону́вший</orth>
+            <stress>тону́вший</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">прошедшее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+        </form>
+      </gramGrp>
+    </entry>
+    <entry xml:id="w2">
+      <form type="lemma">
+        <orth>расти</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Глагол</gram>
+        <gram type="conj">тип спряжения по классификации А. Зализняка — 7b/b.</gram>
+        <gram type="aspect">несовершенный вид</gram>
+        <gram type="transitivity">непереходный</gram>
+        <form type="paradigm">
+          <form type="inflected">
+            <orth>расту́</orth>
+            <stress>расту́</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>растёшь</orth>
+            <stress>растёшь</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>растёт</orth>
+            <stress>растёт</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>растём</orth>
+            <stress>растём</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>растёте</orth>
+            <stress>растёте</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>растёте</orth>
+            <stress>растёте</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>расту́т</orth>
+            <stress>расту́т</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>ро́с</orth>
+            <stress>ро́с</stress>
+            <gramGrp>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>росла́</orth>
+            <stress>росла́</stress>
+            <gramGrp>
+              <gram type="gender">женский род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>росло́</orth>
+            <stress>росло́</stress>
+            <gramGrp>
+              <gram type="gender">средний род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>росли́</orth>
+            <stress>росли́</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>расти́</orth>
+            <stress>расти́</stress>
+            <gramGrp>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>расти́те</orth>
+            <stress>расти́те</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>растя́</orth>
+            <stress>растя́</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>ро́сши</orth>
+            <stress>ро́сши</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>расту́щий</orth>
+            <stress>расту́щий</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">настоящее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>ро́сший</orth>
+            <stress>ро́сший</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">прошедшее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+        </form>
+      </gramGrp>
+    </entry>
+    <entry xml:id="w3">
+      <form type="lemma">
+        <orth>стремиться</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Глагол</gram>
+        <gram type="conj">тип спряжения по классификации А. Зализняка — 4b.</gram>
+        <gram type="aspect">несовершенный вид</gram>
+        <gram type="transitivity">непереходный</gram>
+        <form type="paradigm">
+          <form type="inflected">
+            <orth>стремлю́сь</orth>
+            <stress>стремлю́сь</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́шься</orth>
+            <stress>стреми́шься</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́тся</orth>
+            <stress>стреми́тся</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́мся</orth>
+            <stress>стреми́мся</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́тесь</orth>
+            <stress>стреми́тесь</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́тесь</orth>
+            <stress>стреми́тесь</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стремя́тся</orth>
+            <stress>стремя́тся</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́лся</orth>
+            <stress>стреми́лся</stress>
+            <gramGrp>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́лась</orth>
+            <stress>стреми́лась</stress>
+            <gramGrp>
+              <gram type="gender">женский род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́лось</orth>
+            <stress>стреми́лось</stress>
+            <gramGrp>
+              <gram type="gender">средний род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́лись</orth>
+            <stress>стреми́лись</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́сь</orth>
+            <stress>стреми́сь</stress>
+            <gramGrp>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́тесь</orth>
+            <stress>стреми́тесь</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стремя́сь</orth>
+            <stress>стремя́сь</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́вшись</orth>
+            <stress>стреми́вшись</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стремя́щийся</orth>
+            <stress>стремя́щийся</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">настоящее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>стреми́вшийся</orth>
+            <stress>стреми́вшийся</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">прошедшее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+        </form>
+      </gramGrp>
+    </entry>
+    <entry xml:id="w4">
+      <form type="lemma">
+        <orth>дарить</orth>
+        <pron ref="audio1"/>
+        <stress/>
+      </form>
+      <gramGrp>
+        <gram type="pos">Глагол</gram>
+        <gram type="conj">тип спряжения по классификации А. Зализняка — 4c.</gram>
+        <gram type="aspect">несовершенный вид</gram>
+        <gram type="transitivity">переходный</gram>
+        <form type="paradigm">
+          <form type="inflected">
+            <orth>дарю́</orth>
+            <stress>дарю́</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́ришь</orth>
+            <stress>да́ришь</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́рит</orth>
+            <stress>да́рит</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́рим</orth>
+            <stress>да́рим</stress>
+            <gramGrp>
+              <gram type="person">1</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́рите</orth>
+            <stress>да́рите</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́рите</orth>
+            <stress>да́рите</stress>
+            <gramGrp>
+              <gram type="person">2</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́рят</orth>
+            <stress>да́рят</stress>
+            <gramGrp>
+              <gram type="person">3</gram>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́л</orth>
+            <stress>дари́л</stress>
+            <gramGrp>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́ла</orth>
+            <stress>дари́ла</stress>
+            <gramGrp>
+              <gram type="gender">женский род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́ло</orth>
+            <stress>дари́ло</stress>
+            <gramGrp>
+              <gram type="gender">средний род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́ли</orth>
+            <stress>дари́ли</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́</orth>
+            <stress>дари́</stress>
+            <gramGrp>
+              <gram type="number">единственное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́те</orth>
+            <stress>дари́те</stress>
+            <gramGrp>
+              <gram type="number">множественное число</gram>
+              <gram type="tense">повелительное наклонение</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>даря́</orth>
+            <stress>даря́</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">настоящее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́в, дари́вши</orth>
+            <stress>дари́в, дари́вши</stress>
+            <gramGrp>
+              <gram type="infinite">деепричастие</gram>
+              <gram type="tense">прошедшее время</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>даря́щий</orth>
+            <stress>даря́щий</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">настоящее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́вший</orth>
+            <stress>дари́вший</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">прошедшее время</gram>
+              <gram type="voice">действительный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>дари́мый</orth>
+            <stress>дари́мый</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">настоящее время</gram>
+              <gram type="voice">страдательный залог</gram>
+            </gramGrp>
+          </form>
+          <form type="inflected">
+            <orth>да́ренный</orth>
+            <stress>да́ренный</stress>
+            <gramGrp>
+              <gram type="infinite">причастие</gram>
+              <gram type="gender">мужской род</gram>
+              <gram type="number">единственное число</gram>
+              <gram type="case">именительный падеж</gram>
+              <gram type="tense">прошедшее время</gram>
+              <gram type="voice">страдательный залог</gram>
+            </gramGrp>
+          </form>
+        </form>
+      </gramGrp>
+    </entry>
+  </body>
+</text>
